@@ -1,72 +1,50 @@
-# Olá, eu sou Daniel 👋
+# Hi, I'm Daniel 👋
 
-Desenvolvedor Backend apaixonado por tecnologia, arquitetura de software e resolução de problemas.
+Backend Developer focused on building scalable, maintainable, and business-oriented software solutions.
 
-Atualmente atuo desenvolvendo aplicações com Java e Spring Boot, participando desde a modelagem de banco de dados até a construção de APIs e interfaces web.
+I work primarily with Java and Spring Boot, designing REST APIs, database models, integrations, and modern web applications. I'm passionate about software architecture, clean code, and continuous learning.
 
-## 🚀 Sobre mim
-
-- 💻 Foco principal em desenvolvimento Backend
-- ☕ Experiência com Java e Spring Boot
-- 🗄️ Conhecimentos em modelagem de bancos relacionais e SQL
-- 🌐 Experiência com integração de APIs REST
-- 🧪 Práticas de testes automatizados e TDD
-- 📚 Estudante de Engenharia de Software
-- 🎯 Buscando oportunidades para crescer como Desenvolvedor Java
+Currently seeking opportunities to grow as a Software Engineer while contributing to impactful projects and collaborating with talented teams.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Ferramentas
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📜 Certificações
+## 📚 Certifications
 
 - Java Programming I — University of Helsinki
-- Introduction to Relational Databases (RDBMS) — IBM
-- SQL: A Practical Introduction for Querying Databases — IBM
-- Programação Orientada a Objetos — ITA
-- TDD: Desenvolvimento Guiado por Testes — ITA
-- Participante do NASA International Space Apps Challenge
+- Introduction to Relational Databases (RDBMS) — IBM / Coursera
+- SQL: A Practical Introduction for Querying Databases — IBM / Coursera
+- Object-Oriented Programming — ITA / Coursera
+- Test-Driven Development (TDD) — ITA / Coursera
+- NASA International Space Apps Challenge Participant
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
-
-</div>
-
----
-
-## 📫 Contato
+## 📫 Contact
 
 - LinkedIn: www.linkedin.com/in/daniel-508281275
-- Email: seuemail@email.com
-
----
-
-> "Transformando problemas em soluções através de código."
+- Email: danieljosefsantana@gmail.com
